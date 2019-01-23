@@ -1,0 +1,15 @@
+Khan Academy:
+
+kalite start
+	Port: http://127.0.0.1:8008/
+
+
+Kiwix for PHET:
+
+sudo ~/Downloads/kiwix/bin/kiwix-serve --port=8000 ~/Downloads/kiwix/bin/ZIM/phet.zim
+	Port: localhost:8000
+
+Kiwix for TED:
+
+sudo ~/Downloads/kiwix/bin/kiwix-serve --library '/home/admin/Downloads/kiwix/ZIM/TED/library/ted_en_science_2016-06.zim.xml'
+	Port: localhost:80
